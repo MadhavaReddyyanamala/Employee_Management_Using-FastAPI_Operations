@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic[email]
+streamlit
+requests
+pandas
