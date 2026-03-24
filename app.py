@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import pandas as pd
 
-API_URL = st.secrets["https://employee-management-using-fastapi.onrender.com/"]
+API_URL = st.secrets["API_URL"]
 
 # API_URL = "https://employee-management-using-fastapi.onrender.com/"
 
